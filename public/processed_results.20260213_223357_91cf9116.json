@@ -1,0 +1,2632 @@
+[
+    {
+        "trend": "#Technology",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "MORPHEUS 8",
+                "price": 1800
+            },
+            {
+                "name": "MORPHEUS 8 + CO2",
+                "price": 950
+            },
+            {
+                "name": "MORPHEUS 8 + CO2",
+                "price": 100
+            }
+        ]
+    },
+    {
+        "trend": "#Packages",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "#Packages&Spa",
+                "price": 70
+            },
+            {
+                "name": "Custom facial",
+                "price": 50
+            },
+            {
+                "name": "Deep cleanse",
+                "price": 45
+            },
+            {
+                "name": "Reductive enzymes",
+                "price": 140
+            },
+            {
+                "name": "3 sesiones",
+                "price": 370
+            },
+            {
+                "name": "Postoperative massages",
+                "price": 10
+            }
+        ]
+    },
+    {
+        "trend": "#OctoberSpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "HAIR REVITALIZATION",
+                "price": 150
+            },
+            {
+                "name": "SALMON SPERM",
+                "price": 180
+            },
+            {
+                "name": "aplicación",
+                "price": 650
+            }
+        ]
+    },
+    {
+        "trend": "#AugustSpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "SCULPTRA",
+                "price": 750
+            },
+            {
+                "name": "PENIS ENLARGEMENT",
+                "price": 200
+            },
+            {
+                "name": "+ agrandemiento de cabeza",
+                "price": 500
+            }
+        ]
+    },
+    {
+        "trend": null,
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "REVITALIZATION",
+                "price": 150
+            },
+            {
+                "name": "por aplicación",
+                "price": 600
+            },
+            {
+                "name": "SPERM",
+                "price": 180
+            },
+            {
+                "name": "aplicación",
+                "price": 650
+            }
+        ]
+    },
+    {
+        "trend": "#Packages",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "+ Lip Filler",
+                "price": 620
+            },
+            {
+                "name": "+ Liquid Nose Job",
+                "price": 600
+            },
+            {
+                "name": "Liquid Nose Job",
+                "price": 680
+            },
+            {
+                "name": "Morpheus + Sculptra",
+                "price": 400
+            }
+        ]
+    },
+    {
+        "trend": "#JanuarySpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "1 vial $",
+                "price": 750
+            },
+            {
+                "name": "Dlls",
+                "price": 400
+            },
+            {
+                "name": "3 viales $",
+                "price": 650
+            },
+            {
+                "name": "PENIS ENLARGEMENT",
+                "price": 200
+            },
+            {
+                "name": "agrandemiento de cabeza",
+                "price": 500
+            }
+        ]
+    },
+    {
+        "trend": "#OctoberSpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "#OctoberSpecials",
+                "price": 270
+            },
+            {
+                "name": "Lip filler",
+                "price": 350
+            },
+            {
+                "name": "Relleno de Ojeras",
+                "price": 360
+            },
+            {
+                "name": "Under eye Filler",
+                "price": 370
+            },
+            {
+                "name": "Botox for bruxism",
+                "price": 350
+            }
+        ]
+    },
+    {
+        "trend": "#Packages",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "#Packages&Spa",
+                "price": 70
+            },
+            {
+                "name": "Custom facial",
+                "price": 50
+            },
+            {
+                "name": "Deep cleanse",
+                "price": 45
+            },
+            {
+                "name": "Reductive enzymes",
+                "price": 140
+            },
+            {
+                "name": "3 sesiones",
+                "price": 370
+            },
+            {
+                "name": "Postoperative massages",
+                "price": 10
+            }
+        ]
+    },
+    {
+        "trend": "#Technology",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "Vaginal rejuvenation with radiofrequency",
+                "price": 300
+            },
+            {
+                "name": "Vaginal rejuvenation with CO2",
+                "price": 900
+            }
+        ]
+    },
+    {
+        "trend": "#Packages",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "#Packages&Spa",
+                "price": 70
+            },
+            {
+                "name": "Custom facial",
+                "price": 50
+            },
+            {
+                "name": "Deep cleanse",
+                "price": 45
+            },
+            {
+                "name": "1 sesión",
+                "price": 140
+            },
+            {
+                "name": "3 sesiones",
+                "price": 370
+            },
+            {
+                "name": "Postoperative massages",
+                "price": 10
+            }
+        ]
+    },
+    {
+        "trend": "#NovemberSpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "SCULPTRA",
+                "price": 750
+            },
+            {
+                "name": "PENIS ENLARGEMENT",
+                "price": 200
+            },
+            {
+                "name": "+ agrandemiento de cabeza",
+                "price": 500
+            }
+        ]
+    },
+    {
+        "trend": "#JanuarySpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "(4 aplicaciones 1 por semana)",
+                "price": 420
+            },
+            {
+                "name": "Tratamiento de 3 meses",
+                "price": 12
+            }
+        ]
+    },
+    {
+        "trend": "#AugustSpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "(4 aplicaciones 1 por semana)",
+                "price": 300
+            },
+            {
+                "name": "Tratamiento de 3 meses",
+                "price": 12
+            }
+        ]
+    },
+    {
+        "trend": "#NovemberSpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "BUTT FILLER",
+                "price": 50
+            },
+            {
+                "name": "1 syringe",
+                "price": 100
+            },
+            {
+                "name": "2 syringes",
+                "price": 150
+            },
+            {
+                "name": "3 syringes",
+                "price": 200
+            }
+        ]
+    },
+    {
+        "trend": "#Packages",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "Filler",
+                "price": 620
+            },
+            {
+                "name": "Liquid Nose Job",
+                "price": 600
+            },
+            {
+                "name": "Liquid Nose Job",
+                "price": 680
+            },
+            {
+                "name": "Morpheus + Sculptra",
+                "price": 400
+            }
+        ]
+    },
+    {
+        "trend": "#Packages",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "Lip Filler",
+                "price": 620
+            },
+            {
+                "name": "Liquid Nose Job",
+                "price": 600
+            },
+            {
+                "name": "Liquid Nose Job",
+                "price": 680
+            },
+            {
+                "name": "Morpheus + Sculptra",
+                "price": 400
+            }
+        ]
+    },
+    {
+        "trend": "#DecemberSpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "#DecemberSpecials",
+                "price": 330
+            },
+            {
+                "name": "Chin Hyaluronic Acid",
+                "price": 360
+            },
+            {
+                "name": "Chin Radiesse",
+                "price": 380
+            },
+            {
+                "name": "RADIESSE",
+                "price": 360
+            },
+            {
+                "name": "1 syringe",
+                "price": 700
+            },
+            {
+                "name": "2 syringes",
+                "price": 0
+            }
+        ]
+    },
+    {
+        "trend": "#Technology",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "cuello",
+                "price": 0
+            },
+            {
+                "name": "Full face + neck",
+                "price": 10
+            },
+            {
+                "name": "Back",
+                "price": 200
+            },
+            {
+                "name": "Brazos",
+                "price": 800
+            },
+            {
+                "name": "Arms",
+                "price": 10
+            }
+        ]
+    },
+    {
+        "trend": "#AugustSpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "REVITALIZATION",
+                "price": 150
+            },
+            {
+                "name": "SALMON SPERM",
+                "price": 180
+            },
+            {
+                "name": "aplicación",
+                "price": 650
+            }
+        ]
+    },
+    {
+        "trend": "#DecemberSpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "SCULPTRA",
+                "price": 750
+            },
+            {
+                "name": "PENIS ENLARGEMENT",
+                "price": 200
+            },
+            {
+                "name": "+ agrandemiento de cabeza",
+                "price": 500
+            }
+        ]
+    },
+    {
+        "trend": "#Packages",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "Hydrofacial",
+                "price": 100
+            },
+            {
+                "name": "Botox 3 áreas",
+                "price": 320
+            },
+            {
+                "name": "Hydrofacial + Lip Filler",
+                "price": 450
+            },
+            {
+                "name": "Hydrofacial + Skin Booster",
+                "price": 330
+            },
+            {
+                "name": "Co2 + Skin Booster",
+                "price": 450
+            },
+            {
+                "name": "Aquashine",
+                "price": 260
+            }
+        ]
+    },
+    {
+        "trend": "#PaquetesGLAM",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "GLOW PACK",
+                "price": 990
+            }
+        ]
+    },
+    {
+        "trend": "#NovemberSpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "#NovemberSpecials",
+                "price": 330
+            },
+            {
+                "name": "Chin Hyaluronic Acid",
+                "price": 360
+            },
+            {
+                "name": "Chin Radiesse",
+                "price": 380
+            },
+            {
+                "name": "RADIESSE",
+                "price": 360
+            },
+            {
+                "name": "1 syringe",
+                "price": 700
+            },
+            {
+                "name": "3 jeringas",
+                "price": 0
+            }
+        ]
+    },
+    {
+        "trend": "#DecemberSpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "Botox 3 áreas",
+                "price": 270
+            },
+            {
+                "name": "Lip filler",
+                "price": 350
+            },
+            {
+                "name": "Liquid Nose Job",
+                "price": 360
+            },
+            {
+                "name": "Under eye Filler",
+                "price": 370
+            },
+            {
+                "name": "Botox for bruxism",
+                "price": 350
+            }
+        ]
+    },
+    {
+        "trend": "#DecemberSpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "BUTT FILLER",
+                "price": 50
+            },
+            {
+                "name": "1 syringe",
+                "price": 100
+            },
+            {
+                "name": "2 syringes",
+                "price": 150
+            },
+            {
+                "name": "3 syringes",
+                "price": 200
+            }
+        ]
+    },
+    {
+        "trend": "#Technology",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "MORPHEUS 8 + CO2",
+                "price": 950
+            },
+            {
+                "name": "MORPHEUS 8 + CO2",
+                "price": 100
+            }
+        ]
+    },
+    {
+        "trend": null,
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "EXILIS",
+                "price": 360
+            },
+            {
+                "name": "CELLUTONE",
+                "price": 220
+            },
+            {
+                "name": "FRACTIONAL CO2",
+                "price": 250
+            },
+            {
+                "name": "1 session",
+                "price": 650
+            }
+        ]
+    },
+    {
+        "trend": "#DecemberSpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "REVITALIZATION",
+                "price": 150
+            },
+            {
+                "name": "SALMON SPERM",
+                "price": 180
+            }
+        ]
+    },
+    {
+        "trend": "#PaquetesGLAM",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "ICONIC PACK",
+                "price": 500
+            }
+        ]
+    },
+    {
+        "trend": null,
+        "is_flash_offer": true,
+        "services": [
+            {
+                "name": "(1 vial)",
+                "price": 600
+            },
+            {
+                "name": "N de Salmon",
+                "price": 380
+            },
+            {
+                "name": "Sculptra",
+                "price": 800
+            },
+            {
+                "name": "Booster",
+                "price": 400
+            },
+            {
+                "name": "Gerardo",
+                "price": 11
+            }
+        ]
+    },
+    {
+        "trend": null,
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "9",
+                "price": 150
+            },
+            {
+                "name": "osto",
+                "price": 30
+            },
+            {
+                "name": "sesión",
+                "price": 150
+            },
+            {
+                "name": "sesiones",
+                "price": 180
+            },
+            {
+                "name": "Dlls",
+                "price": 35
+            },
+            {
+                "name": "BACK 6 SESSIONS",
+                "price": 180
+            },
+            {
+                "name": "sesiones",
+                "price": 180
+            },
+            {
+                "name": "(Costo",
+                "price": 35
+            },
+            {
+                "name": "HALF LEGS 6 SESSIONS",
+                "price": 180
+            }
+        ]
+    },
+    {
+        "trend": "#Packages",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "Hydrofacial",
+                "price": 100
+            },
+            {
+                "name": "+ Botox 3 áreas",
+                "price": 320
+            },
+            {
+                "name": "Hydrofacial + Lip Filler",
+                "price": 450
+            },
+            {
+                "name": "Hydrofacial + Skin Booster",
+                "price": 330
+            },
+            {
+                "name": "Co2 + Skin Booster",
+                "price": 450
+            },
+            {
+                "name": "Aquashine",
+                "price": 260
+            }
+        ]
+    },
+    {
+        "trend": "#SeptemberSpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "HAIR REVITALIZATION",
+                "price": 150
+            },
+            {
+                "name": "SALMON SPERM",
+                "price": 180
+            }
+        ]
+    },
+    {
+        "trend": "#FebruarySpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "#FebruarySpecials",
+                "price": 33
+            },
+            {
+                "name": "Chin Hyaluronic Acid",
+                "price": 360
+            },
+            {
+                "name": "Chin Radiesse",
+                "price": 380
+            },
+            {
+                "name": "1 jeringa",
+                "price": 360
+            },
+            {
+                "name": "2 jeringas",
+                "price": 700
+            },
+            {
+                "name": "3 jeringas",
+                "price": 0
+            }
+        ]
+    },
+    {
+        "trend": "#Technology",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "CELLUTONE",
+                "price": 220
+            },
+            {
+                "name": "FRACTIONAL CO2",
+                "price": 250
+            },
+            {
+                "name": "1 session",
+                "price": 650
+            }
+        ]
+    },
+    {
+        "trend": "#FebruarySpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "(4 aplicaciones 1 por semana)",
+                "price": 420
+            },
+            {
+                "name": "Tratamiento de 3 meses",
+                "price": 12
+            }
+        ]
+    },
+    {
+        "trend": "#PaquetesGLAM",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "ICONIC PACK",
+                "price": 500
+            }
+        ]
+    },
+    {
+        "trend": "#Technology",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "ENDOLIFT",
+                "price": 0
+            },
+            {
+                "name": "Full face + neck",
+                "price": 10
+            },
+            {
+                "name": "Back",
+                "price": 200
+            },
+            {
+                "name": "Arms",
+                "price": 10
+            },
+            {
+                "name": "Endolift Full face y cuello",
+                "price": 600
+            }
+        ]
+    },
+    {
+        "trend": "#SeptemberSpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "(4 aplicaciones 1 por semana)",
+                "price": 420
+            },
+            {
+                "name": "Tratamiento de 3 meses",
+                "price": 12
+            }
+        ]
+    },
+    {
+        "trend": "#PaquetesGLAM",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "GLOW PACK",
+                "price": 990
+            }
+        ]
+    },
+    {
+        "trend": null,
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "Cara",
+                "price": 0
+            },
+            {
+                "name": "Full face + neck",
+                "price": 0
+            },
+            {
+                "name": "Back",
+                "price": 200
+            },
+            {
+                "name": "Arms",
+                "price": 10
+            },
+            {
+                "name": "Full face y cuello",
+                "price": 600
+            }
+        ]
+    },
+    {
+        "trend": "#FebruarySpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "#FebruarySpecials",
+                "price": 33
+            },
+            {
+                "name": "Chin Hyaluronic Acid",
+                "price": 360
+            },
+            {
+                "name": "Chin Radiesse",
+                "price": 380
+            },
+            {
+                "name": "1 jeringa",
+                "price": 360
+            },
+            {
+                "name": "2 jeringas",
+                "price": 700
+            },
+            {
+                "name": "3 jeringas",
+                "price": 0
+            }
+        ]
+    },
+    {
+        "trend": "#Technology",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "Cara",
+                "price": 0
+            },
+            {
+                "name": "Full face + neck",
+                "price": 10
+            },
+            {
+                "name": "Back",
+                "price": 0
+            },
+            {
+                "name": "Arms",
+                "price": 10
+            }
+        ]
+    },
+    {
+        "trend": "#FebruarySpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "#FebruarySpecials",
+                "price": 270
+            },
+            {
+                "name": "Rinomodelación",
+                "price": 350
+            },
+            {
+                "name": "Relleno de Ojeras",
+                "price": 360
+            },
+            {
+                "name": "Botox en masetero",
+                "price": 370
+            },
+            {
+                "name": "Botox for bruxism",
+                "price": 350
+            }
+        ]
+    },
+    {
+        "trend": "#NovemberSpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "(4 aplicaciones 1 por semana)",
+                "price": 420
+            },
+            {
+                "name": "Tratamiento de 3 meses",
+                "price": 12
+            }
+        ]
+    },
+    {
+        "trend": null,
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "Hydrofacial",
+                "price": 100
+            },
+            {
+                "name": "Botox",
+                "price": 320
+            },
+            {
+                "name": "Filler",
+                "price": 450
+            },
+            {
+                "name": "Hydrofacial + Skin Booster",
+                "price": 330
+            },
+            {
+                "name": "Co2 + Skin Booster",
+                "price": 450
+            },
+            {
+                "name": "Aquashine",
+                "price": 260
+            }
+        ]
+    },
+    {
+        "trend": "#Tecnnolcgy",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "MORPHEUS 8",
+                "price": 1800
+            },
+            {
+                "name": "n de",
+                "price": 950
+            },
+            {
+                "name": "MORPHEUS 8 + CO2",
+                "price": 100
+            }
+        ]
+    },
+    {
+        "trend": "#Packages",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "Hydrofacial",
+                "price": 100
+            },
+            {
+                "name": "Botox 3 áreas",
+                "price": 320
+            },
+            {
+                "name": "Hydrofacial + Lip Filler",
+                "price": 450
+            },
+            {
+                "name": "Hydrofacial + Skin Booster",
+                "price": 330
+            },
+            {
+                "name": "Co2 + Skin Booster",
+                "price": 450
+            }
+        ]
+    },
+    {
+        "trend": "#FebruarySpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "FILLER",
+                "price": 50
+            },
+            {
+                "name": "1 syringe",
+                "price": 100
+            },
+            {
+                "name": "2 syringes",
+                "price": 150
+            },
+            {
+                "name": "3 syringes",
+                "price": 200
+            }
+        ]
+    },
+    {
+        "trend": null,
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "Limpieza profunda",
+                "price": 50
+            },
+            {
+                "name": "Reductive enzymes",
+                "price": 140
+            },
+            {
+                "name": "3 sesiones",
+                "price": 370
+            },
+            {
+                "name": "Postoperative massages",
+                "price": 10
+            }
+        ]
+    },
+    {
+        "trend": "#Technology",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "MORPHEUS 8",
+                "price": 1800
+            },
+            {
+                "name": "EXILIS",
+                "price": 360
+            },
+            {
+                "name": "MORPHEUS 8",
+                "price": 600
+            }
+        ]
+    },
+    {
+        "trend": null,
+        "is_flash_offer": true,
+        "services": [
+            {
+                "name": "TECHNOLOGY",
+                "price": 800
+            },
+            {
+                "name": "1 sesión",
+                "price": 650
+            },
+            {
+                "name": "3 sesiones",
+                "price": 600
+            }
+        ]
+    },
+    {
+        "trend": null,
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "sesiones",
+                "price": 130
+            },
+            {
+                "name": "sesión",
+                "price": 25
+            },
+            {
+                "name": "FACE 6 SESSIONS",
+                "price": 130
+            },
+            {
+                "name": "Bigote",
+                "price": 75
+            },
+            {
+                "name": "(Costo",
+                "price": 15
+            },
+            {
+                "name": "UPPER LIP 6 SESSIONS",
+                "price": 75
+            },
+            {
+                "name": "sesiones",
+                "price": 120
+            },
+            {
+                "name": "(Costo por sesión",
+                "price": 25
+            },
+            {
+                "name": "CHEST 6 SESSIONS",
+                "price": 120
+            }
+        ]
+    },
+    {
+        "trend": "#Technology",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "MORPHEUS 8 + CO2",
+                "price": 950
+            },
+            {
+                "name": "MORPHEUS 8 + CO2",
+                "price": 100
+            }
+        ]
+    },
+    {
+        "trend": null,
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "MORPHEU",
+                "price": 550
+            },
+            {
+                "name": "(1 sesión) + Co2",
+                "price": 100
+            },
+            {
+                "name": "de Salmón",
+                "price": 980
+            }
+        ]
+    },
+    {
+        "trend": "#Packages",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "Hydrofacial",
+                "price": 100
+            },
+            {
+                "name": "Botox 3 áreas",
+                "price": 320
+            },
+            {
+                "name": "Hydrofacial + Lip Filler",
+                "price": 450
+            },
+            {
+                "name": "Hydrofacial + Skin Booster",
+                "price": 330
+            },
+            {
+                "name": "Co2 + Skin Booster",
+                "price": 450
+            }
+        ]
+    },
+    {
+        "trend": "#Technology",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "MORPHEUS 8",
+                "price": 1800
+            },
+            {
+                "name": "EXILIS",
+                "price": 360
+            },
+            {
+                "name": "8",
+                "price": 600
+            }
+        ]
+    },
+    {
+        "trend": "#OctoberSpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "RELLENO DE GLUTEOS",
+                "price": 50
+            },
+            {
+                "name": "1 syringe",
+                "price": 100
+            },
+            {
+                "name": "2 syringes",
+                "price": 150
+            },
+            {
+                "name": "3 syringes",
+                "price": 200
+            }
+        ]
+    },
+    {
+        "trend": null,
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "NECKTITE",
+                "price": 0
+            },
+            {
+                "name": "NECKTITE",
+                "price": 800
+            },
+            {
+                "name": "CUERPO",
+                "price": 0
+            },
+            {
+                "name": "Incluye",
+                "price": 10
+            },
+            {
+                "name": "cuello",
+                "price": 800
+            }
+        ]
+    },
+    {
+        "trend": "#AugustSpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "#AugustSpecials",
+                "price": 330
+            },
+            {
+                "name": "Chin Hyaluronic Acid",
+                "price": 360
+            },
+            {
+                "name": "Chin Radiesse",
+                "price": 380
+            },
+            {
+                "name": "1 jeringa",
+                "price": 360
+            },
+            {
+                "name": "2 jeringas",
+                "price": 700
+            },
+            {
+                "name": "3 jeringas",
+                "price": 0
+            }
+        ]
+    },
+    {
+        "trend": null,
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "BUTT FILLER",
+                "price": 50
+            },
+            {
+                "name": "1 syringe",
+                "price": 100
+            },
+            {
+                "name": "2 syringes",
+                "price": 150
+            },
+            {
+                "name": "3 syringes",
+                "price": 200
+            }
+        ]
+    },
+    {
+        "trend": "#Technology",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "Cara",
+                "price": 0
+            },
+            {
+                "name": "Full face + neck",
+                "price": 10
+            },
+            {
+                "name": "Back",
+                "price": 200
+            },
+            {
+                "name": "Arms",
+                "price": 10
+            }
+        ]
+    },
+    {
+        "trend": "#Technology",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "MORPHEUS 8",
+                "price": 1800
+            },
+            {
+                "name": "EXILIS",
+                "price": 360
+            },
+            {
+                "name": "S8",
+                "price": 600
+            }
+        ]
+    },
+    {
+        "trend": null,
+        "is_flash_offer": true,
+        "services": [
+            {
+                "name": "MEDS",
+                "price": 240
+            }
+        ]
+    },
+    {
+        "trend": "#JanuarySpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "Botox 3 áreas",
+                "price": 270
+            },
+            {
+                "name": "Relleno de Labios",
+                "price": 380
+            },
+            {
+                "name": "Rinomodelación",
+                "price": 350
+            },
+            {
+                "name": "Ojeras",
+                "price": 360
+            },
+            {
+                "name": "Botox en masetero",
+                "price": 370
+            },
+            {
+                "name": "Botox for bruxism",
+                "price": 350
+            }
+        ]
+    },
+    {
+        "trend": null,
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "sesiones",
+                "price": 120
+            },
+            {
+                "name": "ABDOMEN 6 SESSIONS",
+                "price": 120
+            }
+        ]
+    },
+    {
+        "trend": "#AugustSpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "BUTT FILLER",
+                "price": 50
+            },
+            {
+                "name": "1 syringe",
+                "price": 100
+            },
+            {
+                "name": "2 syringes",
+                "price": 150
+            },
+            {
+                "name": "3 syringes",
+                "price": 200
+            }
+        ]
+    },
+    {
+        "trend": "#Technology",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "CELLUTONE",
+                "price": 220
+            },
+            {
+                "name": "FRACTIONAL CO2",
+                "price": 250
+            },
+            {
+                "name": "1 session",
+                "price": 650
+            }
+        ]
+    },
+    {
+        "trend": "#Technology",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "EXILIS",
+                "price": 360
+            },
+            {
+                "name": "CELLUTONE",
+                "price": 220
+            },
+            {
+                "name": "FRACTIONAL CO2",
+                "price": 250
+            },
+            {
+                "name": "1 session",
+                "price": 650
+            }
+        ]
+    },
+    {
+        "trend": "#PaquetesGLAM",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "GLAM PACK",
+                "price": 500
+            }
+        ]
+    },
+    {
+        "trend": null,
+        "is_flash_offer": true,
+        "services": [
+            {
+                "name": "Morpheus 8 (Facial)",
+                "price": 600
+            },
+            {
+                "name": "CO Fracc.",
+                "price": 300
+            },
+            {
+                "name": "Hydrafacial",
+                "price": 80
+            }
+        ]
+    },
+    {
+        "trend": "#Technology",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "Cara",
+                "price": 0
+            },
+            {
+                "name": "Full face + neck",
+                "price": 10
+            },
+            {
+                "name": "Back",
+                "price": 0
+            },
+            {
+                "name": "Arms",
+                "price": 10
+            }
+        ]
+    },
+    {
+        "trend": "#Technology",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "ENDOLIFT",
+                "price": 0
+            },
+            {
+                "name": "Full face + neck",
+                "price": 10
+            },
+            {
+                "name": "Back",
+                "price": 200
+            },
+            {
+                "name": "Arms",
+                "price": 10
+            }
+        ]
+    },
+    {
+        "trend": "#Technology",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "Vaginal rejuvenation with radiofrequency",
+                "price": 300
+            },
+            {
+                "name": "Vaginal rejuvenation with CO2",
+                "price": 900
+            }
+        ]
+    },
+    {
+        "trend": "#Technology",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "Vaginal rejuvenation with radiofrequency",
+                "price": 300
+            },
+            {
+                "name": "Vaginal rejuvenation with CO2",
+                "price": 900
+            }
+        ]
+    },
+    {
+        "trend": "#FebruarySpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "REVITALIZATION",
+                "price": 150
+            },
+            {
+                "name": "SALMON SPERM",
+                "price": 180
+            }
+        ]
+    },
+    {
+        "trend": "#Technology",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "MORPHEUS 8",
+                "price": 1800
+            },
+            {
+                "name": "EXILIS",
+                "price": 360
+            },
+            {
+                "name": "MORPHEUS",
+                "price": 600
+            }
+        ]
+    },
+    {
+        "trend": null,
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "sesiones",
+                "price": 350
+            },
+            {
+                "name": "sesión",
+                "price": 65
+            },
+            {
+                "name": "SESSIONS",
+                "price": 350
+            },
+            {
+                "name": "USD",
+                "price": 65
+            },
+            {
+                "name": "sesiones",
+                "price": 160
+            },
+            {
+                "name": "ARMS 6 SESSIONS",
+                "price": 160
+            },
+            {
+                "name": "sesiones",
+                "price": 120
+            },
+            {
+                "name": "Dlls",
+                "price": 25
+            },
+            {
+                "name": "L 6 SESSIONS",
+                "price": 120
+            }
+        ]
+    },
+    {
+        "trend": "#FebruarySpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "SCULPTRA",
+                "price": 750
+            },
+            {
+                "name": "PENIS ENLARGEMENT",
+                "price": 200
+            },
+            {
+                "name": "+ agrandemiento de cabeza",
+                "price": 500
+            }
+        ]
+    },
+    {
+        "trend": "#FebruarySpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "SCULPTRA",
+                "price": 750
+            },
+            {
+                "name": "PENIS ENLARGEMENT",
+                "price": 200
+            },
+            {
+                "name": "+ agrandemiento de cabeza",
+                "price": 500
+            }
+        ]
+    },
+    {
+        "trend": "#Packages",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "Custom facial",
+                "price": 50
+            },
+            {
+                "name": "Deep cleanse",
+                "price": 50
+            },
+            {
+                "name": "1 sesión",
+                "price": 140
+            },
+            {
+                "name": "3 sesiones",
+                "price": 370
+            },
+            {
+                "name": "Postoperative massages",
+                "price": 10
+            }
+        ]
+    },
+    {
+        "trend": "#OctoberSpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "(4 aplicaciones 1 por semana)",
+                "price": 420
+            },
+            {
+                "name": "Tratamiento de 3 meses",
+                "price": 12
+            }
+        ]
+    },
+    {
+        "trend": null,
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "Filler",
+                "price": 620
+            },
+            {
+                "name": "qor esoN",
+                "price": 600
+            },
+            {
+                "name": "Nose Job",
+                "price": 680
+            },
+            {
+                "name": "Morpheus + Sculptra",
+                "price": 400
+            }
+        ]
+    },
+    {
+        "trend": "#SeptemberSpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "BUTT FILLER",
+                "price": 50
+            },
+            {
+                "name": "1 syringe",
+                "price": 100
+            },
+            {
+                "name": "2 syringes",
+                "price": 150
+            },
+            {
+                "name": "3 syringes",
+                "price": 200
+            }
+        ]
+    },
+    {
+        "trend": "#Technology",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "3",
+                "price": 1800
+            },
+            {
+                "name": "EXILIS",
+                "price": 360
+            },
+            {
+                "name": "8",
+                "price": 600
+            }
+        ]
+    },
+    {
+        "trend": null,
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "yk",
+                "price": 9
+            },
+            {
+                "name": ",AND BRAZILIAN BIKINI)",
+                "price": 600
+            },
+            {
+                "name": "sesiones",
+                "price": 6
+            },
+            {
+                "name": "UNDERARMS 6 SESSIONS",
+                "price": 90
+            },
+            {
+                "name": "sesiones",
+                "price": 6
+            },
+            {
+                "name": "(Costo",
+                "price": 20
+            },
+            {
+                "name": "BIKINI 6 SESSIONS",
+                "price": 90
+            }
+        ]
+    },
+    {
+        "trend": "#DecemberSpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "(4 aplicaciones 1 por semana)",
+                "price": 420
+            },
+            {
+                "name": "Tratamiento de 3 meses",
+                "price": 12
+            }
+        ]
+    },
+    {
+        "trend": "#Packages",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "Hydrofacial",
+                "price": 100
+            },
+            {
+                "name": "+ Botox 3 áreas",
+                "price": 320
+            },
+            {
+                "name": "Hydrofacial + Lip Filler",
+                "price": 450
+            },
+            {
+                "name": "Hydrofacial + Skin Booster",
+                "price": 330
+            },
+            {
+                "name": "Co2 + Skin Booster",
+                "price": 450
+            }
+        ]
+    },
+    {
+        "trend": "#AugustSpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "Botox 3 áreas",
+                "price": 270
+            },
+            {
+                "name": "Rinomodelación",
+                "price": 350
+            },
+            {
+                "name": "Liquid Nose Job",
+                "price": 360
+            },
+            {
+                "name": "Under eye Filler",
+                "price": 370
+            },
+            {
+                "name": "Botox for bruxism",
+                "price": 350
+            }
+        ]
+    },
+    {
+        "trend": "#NovemberSpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "#NovemberSpecials",
+                "price": 270
+            },
+            {
+                "name": "Lip filler",
+                "price": 350
+            },
+            {
+                "name": "Liquid Nose Job",
+                "price": 360
+            },
+            {
+                "name": "Under eye Filler",
+                "price": 370
+            },
+            {
+                "name": "Botox for bruxism",
+                "price": 350
+            }
+        ]
+    },
+    {
+        "trend": "#OctoberSpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "#OctoberSpecials",
+                "price": 33
+            },
+            {
+                "name": "Chin Hyaluronic Acid",
+                "price": 360
+            },
+            {
+                "name": "Chin Radiesse",
+                "price": 380
+            },
+            {
+                "name": "1 jeringa",
+                "price": 360
+            },
+            {
+                "name": "2 jeringas",
+                "price": 700
+            },
+            {
+                "name": "3 jeringas",
+                "price": 0
+            }
+        ]
+    },
+    {
+        "trend": null,
+        "is_flash_offer": true,
+        "services": [
+            {
+                "name": "SPA",
+                "price": 45
+            },
+            {
+                "name": "en la compra de tu paquete",
+                "price": 50
+            },
+            {
+                "name": "Microdermoabrasión",
+                "price": 50
+            }
+        ]
+    },
+    {
+        "trend": "#SeptemberSpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "SCULPTRA",
+                "price": 750
+            },
+            {
+                "name": "PENIS ENLARGEMENT",
+                "price": 200
+            },
+            {
+                "name": "+ agrandemiento de cabeza",
+                "price": 500
+            }
+        ]
+    },
+    {
+        "trend": "#Packages",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "Hydrofacial",
+                "price": 100
+            },
+            {
+                "name": "+ Botox 3 áreas",
+                "price": 320
+            },
+            {
+                "name": "Hydrofacial + Lip Filler",
+                "price": 450
+            },
+            {
+                "name": "Hydrofacial + Skin Booster",
+                "price": 330
+            },
+            {
+                "name": "Co2 + Skin Booster",
+                "price": 450
+            }
+        ]
+    },
+    {
+        "trend": "#Technology",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "CÉLLUTONE",
+                "price": 220
+            },
+            {
+                "name": "1 sesión",
+                "price": 250
+            },
+            {
+                "name": "3 sesiones",
+                "price": 650
+            }
+        ]
+    },
+    {
+        "trend": "#Technology",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "MORPHEUS 8 + CO2",
+                "price": 950
+            },
+            {
+                "name": "MORPHEUS 8 + CO2",
+                "price": 100
+            }
+        ]
+    },
+    {
+        "trend": "#Technology",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "TITELIFT",
+                "price": 0
+            },
+            {
+                "name": "BODYTITE CUERPO",
+                "price": 0
+            },
+            {
+                "name": "+ 3 SESIONES MORPHEUS8*",
+                "price": 800
+            }
+        ]
+    },
+    {
+        "trend": "#Packages",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "Custom facial",
+                "price": 50
+            },
+            {
+                "name": "Consulta",
+                "price": 45
+            },
+            {
+                "name": "1 sesión",
+                "price": 140
+            },
+            {
+                "name": "3 sesiones",
+                "price": 370
+            },
+            {
+                "name": "Postoperative massages",
+                "price": 10
+            }
+        ]
+    },
+    {
+        "trend": "#SeptemberSpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "#SeptemberSpecials",
+                "price": 270
+            },
+            {
+                "name": "Rinomodelación",
+                "price": 350
+            },
+            {
+                "name": "Liquid Nose Job",
+                "price": 360
+            },
+            {
+                "name": "Under eye Filler",
+                "price": 370
+            },
+            {
+                "name": "Botox for bruxism",
+                "price": 350
+            }
+        ]
+    },
+    {
+        "trend": null,
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "GLAM PACK",
+                "price": 500
+            }
+        ]
+    },
+    {
+        "trend": "#Packages",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "+ Lip Filler",
+                "price": 620
+            },
+            {
+                "name": "+ Liquid Nose Job",
+                "price": 600
+            },
+            {
+                "name": "+ Liquid Nose Job",
+                "price": 680
+            },
+            {
+                "name": "Morpheus + Sculptra",
+                "price": 400
+            }
+        ]
+    },
+    {
+        "trend": "#Technology",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "CELLUTONE",
+                "price": 220
+            },
+            {
+                "name": "FRACTIONAL CO2",
+                "price": 250
+            },
+            {
+                "name": "1 session",
+                "price": 650
+            }
+        ]
+    },
+    {
+        "trend": null,
+        "is_flash_offer": true,
+        "services": [
+            {
+                "name": "MEDS",
+                "price": 240
+            },
+            {
+                "name": "(3 sesiones)",
+                "price": 280
+            }
+        ]
+    },
+    {
+        "trend": "#Packages",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "Facial personalizado",
+                "price": 70
+            },
+            {
+                "name": "Limpieza profunda",
+                "price": 50
+            },
+            {
+                "name": "Consulta",
+                "price": 50
+            },
+            {
+                "name": "1 sesión",
+                "price": 140
+            },
+            {
+                "name": "sesiones",
+                "price": 370
+            },
+            {
+                "name": "Postoperative massages",
+                "price": 10
+            }
+        ]
+    },
+    {
+        "trend": "#FebruarySpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "FILLER",
+                "price": 50
+            },
+            {
+                "name": "1 syringe",
+                "price": 100
+            },
+            {
+                "name": "2 syringes",
+                "price": 150
+            },
+            {
+                "name": "3 syringes",
+                "price": 200
+            }
+        ]
+    },
+    {
+        "trend": null,
+        "is_flash_offer": true,
+        "services": [
+            {
+                "name": "SPA",
+                "price": 45
+            },
+            {
+                "name": "en la compra de tu paquete",
+                "price": 50
+            },
+            {
+                "name": "Masaje descontracturante",
+                "price": 65
+            },
+            {
+                "name": "Microdermoabrasión",
+                "price": 50
+            },
+            {
+                "name": "(3 sesiones)",
+                "price": 20
+            }
+        ]
+    },
+    {
+        "trend": "#SeptemberSpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "#SeptemberSpecials",
+                "price": 330
+            },
+            {
+                "name": "Chin Hyaluronic Acid",
+                "price": 360
+            },
+            {
+                "name": "Chin Radiesse",
+                "price": 380
+            },
+            {
+                "name": "1 jeringa",
+                "price": 360
+            },
+            {
+                "name": "2 jeringas",
+                "price": 700
+            },
+            {
+                "name": "3 jeringas",
+                "price": 0
+            }
+        ]
+    },
+    {
+        "trend": null,
+        "is_flash_offer": false,
+        "services": []
+    },
+    {
+        "trend": "#Packages",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "+ Lip Filler",
+                "price": 620
+            },
+            {
+                "name": "Liquid Nose Job",
+                "price": 600
+            },
+            {
+                "name": "Liquid Nose Job",
+                "price": 680
+            },
+            {
+                "name": "Morpheus + Sculptra",
+                "price": 400
+            }
+        ]
+    },
+    {
+        "trend": "#FebruarySpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "#FebruarySpecials",
+                "price": 270
+            },
+            {
+                "name": "Rinomodelación",
+                "price": 350
+            },
+            {
+                "name": "Relleno de Ojeras",
+                "price": 360
+            },
+            {
+                "name": "Botox en masetero",
+                "price": 370
+            },
+            {
+                "name": "Botox for bruxism",
+                "price": 350
+            }
+        ]
+    },
+    {
+        "trend": "#Technology",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "MORPHEUS 8",
+                "price": 1800
+            },
+            {
+                "name": "EXILIS",
+                "price": 360
+            },
+            {
+                "name": "cuello $",
+                "price": 600
+            }
+        ]
+    },
+    {
+        "trend": "#OctoberSpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "SCULPTRA",
+                "price": 750
+            },
+            {
+                "name": "ENLARGEMENT",
+                "price": 200
+            },
+            {
+                "name": "agrandemiento de cabeza",
+                "price": 500
+            }
+        ]
+    },
+    {
+        "trend": null,
+        "is_flash_offer": true,
+        "services": [
+            {
+                "name": "recials",
+                "price": 220
+            },
+            {
+                "name": "LIP FILLER",
+                "price": 550
+            },
+            {
+                "name": "Radiesse bioestimulación",
+                "price": 580
+            },
+            {
+                "name": "RADIESSE BIOSTIMULATION 2 SYRINGES",
+                "price": 300
+            },
+            {
+                "name": "CHIN",
+                "price": 280
+            },
+            {
+                "name": "Skinbooster",
+                "price": 300
+            },
+            {
+                "name": "SKINBOOSTER + SALMON PDRN",
+                "price": 300
+            },
+            {
+                "name": "MASSETER BOTOX",
+                "price": 300
+            },
+            {
+                "name": "UNDERARM BOTOX",
+                "price": 22
+            }
+        ]
+    },
+    {
+        "trend": "#JanuarySpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "#JanuarySpecials",
+                "price": 330
+            },
+            {
+                "name": "Chin Hyaluronic Acid",
+                "price": 360
+            },
+            {
+                "name": "1 jeringa",
+                "price": 360
+            },
+            {
+                "name": "2 jeringas",
+                "price": 700
+            },
+            {
+                "name": "3 jeringas",
+                "price": 0
+            }
+        ]
+    },
+    {
+        "trend": "#Technology",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "CELLUTONE",
+                "price": 220
+            },
+            {
+                "name": "1 sesión",
+                "price": 250
+            },
+            {
+                "name": "1 session",
+                "price": 650
+            }
+        ]
+    },
+    {
+        "trend": null,
+        "is_flash_offer": true,
+        "services": [
+            {
+                "name": "SPECIALS",
+                "price": 19
+            },
+            {
+                "name": "1 SÉSIÓN",
+                "price": 360
+            },
+            {
+                "name": "Biorrevitalización",
+                "price": 300
+            },
+            {
+                "name": "Relleno ojeras",
+                "price": 400
+            },
+            {
+                "name": "Tirzepatida + Enzimas",
+                "price": 800
+            },
+            {
+                "name": "Botox",
+                "price": 550
+            },
+            {
+                "name": "Botox (3 áreas)",
+                "price": 500
+            },
+            {
+                "name": "NEFERTITI BOTOX",
+                "price": 550
+            }
+        ]
+    },
+    {
+        "trend": null,
+        "is_flash_offer": true,
+        "services": [
+            {
+                "name": "Morales",
+                "price": 300
+            },
+            {
+                "name": "dlls",
+                "price": 11
+            }
+        ]
+    },
+    {
+        "trend": "#Technology",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "MORPHEUS 8 + CO2",
+                "price": 950
+            },
+            {
+                "name": "MORPHEUS 8 + CO2",
+                "price": 100
+            }
+        ]
+    },
+    {
+        "trend": "#NovemberSpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "HAIR REVITALIZATION",
+                "price": 150
+            },
+            {
+                "name": "SALMON SPERM",
+                "price": 180
+            }
+        ]
+    },
+    {
+        "trend": "#FebruarySpecials",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "REVITALIZATION",
+                "price": 150
+            },
+            {
+                "name": "SALMON SPERM",
+                "price": 180
+            }
+        ]
+    },
+    {
+        "trend": null,
+        "is_flash_offer": false,
+        "services": []
+    },
+    {
+        "trend": "#Technology",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "MORPHEUS 8 + CO2",
+                "price": 950
+            },
+            {
+                "name": "MORPHEUS 8 + CO2",
+                "price": 100
+            }
+        ]
+    },
+    {
+        "trend": "#Packages",
+        "is_flash_offer": false,
+        "services": [
+            {
+                "name": "+",
+                "price": 620
+            },
+            {
+                "name": "Liquid Nose Job",
+                "price": 600
+            },
+            {
+                "name": "Liquid Nose Job",
+                "price": 680
+            },
+            {
+                "name": "Morpheus + Sculptra",
+                "price": 400
+            }
+        ]
+    }
+]

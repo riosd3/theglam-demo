@@ -22,30 +22,32 @@ const presentation: Props[] = [
 
 function Presentation({ title, message, image_src }: Props){
     return (
-        <section className="w-full bg-black/90 px-6 py-20 flex flex-row items-center text-center">
+        <section className="w-full bg-black/90 px-6 py-20 flex flex-col md:flex-row items-center text-center md:text-left">
 
-            <div className="max-w-4xl mx-auto flex flex-col items-center text-center text-white px-2 py-8">
-                <div className="items-center justify-center">
-                    <h2 className="text-4xl font-bold font-ooohbaby md:text-5xl tracking-[1rem]">{title}</h2>
-                    <p className="text-gray-200 mt-6 max-w-2xl">
-                        {message}
-                    </p>
-                </div>
+            <div className="max-w-4xl mx-auto flex flex-col items-center md:items-start text-white px-2 py-8">
+                <h2 className="text-4xl font-bold font-ooohbaby md:text-5xl tracking-[1rem]">
+                    {title}
+                </h2>
+
+                <p className="text-gray-200 mt-6 max-w-2xl">
+                    {message}
+                </p>
             </div>
 
-            <div className="max-w-8xl mx-auto flex flex-col items-center text-center text-white px-2 py-8">
+            <div className="max-w-8xl mx-auto flex justify-center px-2 py-8">
                 <Image
                     src={image_src}
                     alt="Sobre Nosotros"
                     width={600}
                     height={800}
-                    className="rounded-lg mt-12 object-cover object-center"
+                    className="rounded-lg object-cover object-center"
                 />
             </div>
 
         </section>
     );
 }
+
 
 export default function AboutUs(){
     return (

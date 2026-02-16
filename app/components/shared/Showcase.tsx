@@ -1,4 +1,4 @@
-import Polaroid from "./PolaroidImage";
+import Polaroid from "../ui/PolaroidImage";
 
 export default function Showcase() {
     const treatments_images: string[] = Array.from(
@@ -22,7 +22,7 @@ export default function Showcase() {
                 </p>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-4 md:justify-end">
+            <div className="grid grid-cols-1 md:grid-cols-4 md:justify-end justify-items-center">
                 {treatments_images.map((src, index) => (
                     <Polaroid key={index} image={src} alt={`Tratamiento ${index + 1}`} side={index % 2 === 0 ? "left" : "right"}>
                         <span className="font-ooohbaby font-bold">Tratamiento {index + 1}</span>

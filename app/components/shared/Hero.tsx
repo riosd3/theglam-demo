@@ -1,4 +1,6 @@
+import Link from "next/link";
 export default function Hero() {
+
   return (
     <section className="relative h-screen w-full">
       <div
@@ -27,9 +29,9 @@ export default function Hero() {
           Combinamos lo último en tecnología estética para transformar rostro, cuerpo y piel de forma integral.
         </p>
 
-        <button className="mt-8 bg-amber-400 text-black font-semibold px-8 py-3 rounded-full hover:bg-amber-300 transition hover:cursor-pointer duration-70 ease-in-out animate-bouncer">
+        <Link href="/contact" className="mt-8 bg-amber-400 text-black font-semibold px-8 py-3 rounded-full hover:bg-amber-300 transition hover:cursor-pointer duration-70 ease-in-out animate-bouncer">
           Contactanos
-        </button>
+        </Link>
       </div>
     </section>
   );
