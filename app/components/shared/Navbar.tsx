@@ -28,7 +28,7 @@ export default function Navbar() {
         <ul className="hidden md:flex gap-8 text-white text-sm font-medium">
           <Link href="/" className="font-bold hover:text-amber-400 transition hover:cursor-pointer hover:border-b p-2 hover:border-b-amber-300">Inicio</Link>
           <Link href="/#services-section" className="font-bold hover:text-amber-400 transition hover:cursor-pointer hover:border-b p-2 hover:border-b-amber-300">Servicios</Link>
-          <Link href="/about" className="font-bold hover:text-amber-400 transition hover:cursor-pointer hover:border-b p-2 hover:border-b-amber-300">Sobre nosotros</Link>
+          <Link href="#" className="font-bold hover:text-amber-400 transition hover:cursor-pointer hover:border-b p-2 hover:border-b-amber-300">Sobre nosotros</Link>
         </ul>
         <Link className="bg-amber-400 text-black font-semibold px-5 py-2 rounded-full hover:bg-amber-300 transition hover:cursor-pointer" href="contact">
           Contactar
